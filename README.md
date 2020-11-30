@@ -12,4 +12,4 @@ Webiste template build using react js and bootstrap.
 
 ## Project Preview:
 
-![Haze Website Template](https://ali-tahir4024.github.io/haze-website-template-reactjs/)
+https://ali-tahir4024.github.io/haze-website-template-reactjs/
