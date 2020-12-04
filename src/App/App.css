@@ -36,6 +36,7 @@ body {
   align-content: flex-end;
   justify-content: flex-end;
   border-bottom: 2px solid rgba(255, 255, 255, 0.5);
+  overflow:hidden;
 }
 
 .result-section > h1 {
