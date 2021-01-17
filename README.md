@@ -1,15 +1,14 @@
-# Haze website template.
+# Calculator-App-ReactJS
 
-Webiste template build using react js and bootstrap.
+real world calculator application developed using ReactJS
 
 ## Technologies Used:
 
-* HTML5. 
-* CSS3.
+* HTML.
+* CSS.
+* JavaScript.
 * ReactJS.
-* Bootstrap4.
-* Class Components.
 
 ## Project Preview:
 
-https://ali-tahir4024.github.io/haze-website-template-reactjs/
+[calculator-app-reactjs](https://ali-tahir4024.github.io/calculator-app-in-react/)
